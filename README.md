@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bakhadir0v
 - 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Python
 - 📫 How to reach me atabekbakhadirov@my.capilanou.ca
 
 
